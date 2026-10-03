@@ -1,0 +1,1 @@
+[project]\nname = "genpark-autonomous-lead-scoring-and-outreach-synthesizer-skill"\nversion = "1.0.0"\ndescription = "Scores outbound lead profiles, evaluates purchase intent, and synthesizes personalized multi-channel outreach messages"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
