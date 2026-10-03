@@ -1,0 +1,8 @@
+{
+  "name": "genpark-autonomous-lead-scoring-and-outreach-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Scores outbound lead profiles, evaluates purchase intent, and synthesizes personalized multi-channel outreach messages",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
