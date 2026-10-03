@@ -1,0 +1,1 @@
+# genpark-autonomous-lead-scoring-and-outreach-synthesizer-skill\n\nScores outbound lead profiles, evaluates purchase intent, and synthesizes personalized multi-channel outreach messages.\n\n100% Python Standard Library implementation with zero external dependencies.
